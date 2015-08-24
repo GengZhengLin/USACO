@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "crypt1", "crypt1\crypt1.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "combo", "combo\combo.vcxproj", "{B8E9A2D1-B31C-4F65-B7AD-4AC838718EB7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wormhole", "wormhole\wormhole.vcxproj", "{B03EF35A-6894-4370-A067-CCF3D52D3292}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -33,6 +35,10 @@ Global
 		{B8E9A2D1-B31C-4F65-B7AD-4AC838718EB7}.Debug|Win32.Build.0 = Debug|Win32
 		{B8E9A2D1-B31C-4F65-B7AD-4AC838718EB7}.Release|Win32.ActiveCfg = Release|Win32
 		{B8E9A2D1-B31C-4F65-B7AD-4AC838718EB7}.Release|Win32.Build.0 = Release|Win32
+		{B03EF35A-6894-4370-A067-CCF3D52D3292}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B03EF35A-6894-4370-A067-CCF3D52D3292}.Debug|Win32.Build.0 = Debug|Win32
+		{B03EF35A-6894-4370-A067-CCF3D52D3292}.Release|Win32.ActiveCfg = Release|Win32
+		{B03EF35A-6894-4370-A067-CCF3D52D3292}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

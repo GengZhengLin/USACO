@@ -7,10 +7,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Transformations", "Transfor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "namenum", "namenum\namenum.vcxproj", "{F689DE55-7E34-40A4-B558-57A18AE93F36}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "palsquare", "palsquare\palsquare.vcxproj", "{AE48E1CA-A05D-46B8-94BE-5D13E4470959}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dualpal", "dualpal\dualpal.vcxproj", "{7D70184D-7681-4FE1-B43F-D750811BD920}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -25,14 +21,6 @@ Global
 		{F689DE55-7E34-40A4-B558-57A18AE93F36}.Debug|Win32.Build.0 = Debug|Win32
 		{F689DE55-7E34-40A4-B558-57A18AE93F36}.Release|Win32.ActiveCfg = Release|Win32
 		{F689DE55-7E34-40A4-B558-57A18AE93F36}.Release|Win32.Build.0 = Release|Win32
-		{AE48E1CA-A05D-46B8-94BE-5D13E4470959}.Debug|Win32.ActiveCfg = Debug|Win32
-		{AE48E1CA-A05D-46B8-94BE-5D13E4470959}.Debug|Win32.Build.0 = Debug|Win32
-		{AE48E1CA-A05D-46B8-94BE-5D13E4470959}.Release|Win32.ActiveCfg = Release|Win32
-		{AE48E1CA-A05D-46B8-94BE-5D13E4470959}.Release|Win32.Build.0 = Release|Win32
-		{7D70184D-7681-4FE1-B43F-D750811BD920}.Debug|Win32.ActiveCfg = Debug|Win32
-		{7D70184D-7681-4FE1-B43F-D750811BD920}.Debug|Win32.Build.0 = Debug|Win32
-		{7D70184D-7681-4FE1-B43F-D750811BD920}.Release|Win32.ActiveCfg = Release|Win32
-		{7D70184D-7681-4FE1-B43F-D750811BD920}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
